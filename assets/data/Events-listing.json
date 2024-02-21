@@ -1,0 +1,148 @@
+[
+    {
+        "id": "1",
+        "name": "Bangalore Poetry Festival",
+        "description": "Gathering of renowned Indian and international poets",
+        "host": "Bangalore Cultural Association",
+        "date": "2024-02-18",
+        "venue": "Bangalore Palace Grounds",
+        "price": "200rs",
+        "categories": ["Literature", "Poetry"],
+        "thumbnail_url": "https://pixabay.com/photos/audience-band-concert-crowd-1853662/",
+        "medium_url": "https://pixabay.com/photos/audience-band-concert-crowd-1853662/"
+    },
+    {
+        "id": "2",
+        "name": "Mumbai Fashion Week",
+        "description": "Top designers showcase their latest collections",
+        "host": "Mumbai Designers Association",
+        "date": "2024-02-22",
+        "venue": "Grand Hyatt Mumbai",
+        "price": "3000rs",
+        "categories": ["Fashion", "Lifestyle"],
+        "thumbnail_url": "https://example.com/images/thumb-fashion.jpg",
+        "medium_url": "https://example.com/images/med-fashion.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Big Data & AI Summit",
+        "description": "Discuss latest trends in big data, analytics and AI",
+        "host": "ML Association of India",
+        "date": "2024-02-15",
+        "venue": "Hyderabad International Convention Center",
+        "price": "2500rs",
+        "categories": ["Technology", "AI"],
+        "thumbnail_url": "https://example.com/images/thumb-ai.jpg",
+        "medium_url": "https://pixabay.com/photos/audience-band-concert-crowd-1853662/"
+    },
+    {
+        "id": "4", 
+        "name": "Future of Work Conference",
+        "description": "Discuss how technology is changing the employment landscape",
+        "host": "India Future Foundation",
+        "date": "2024-02-10",
+        "venue": "The LaLiT New Delhi", 
+        "price": "1200rs",
+        "categories": ["Technology", "Career"],
+        "thumbnail_url": "https://example.com/images/thumb-work.jpg", 
+        "medium_url": "https://example.com/images/med-work.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Comic Fan Fest",
+        "description": "Celebrate comic books, superheroes, anime and pop culture", 
+        "host": "Comic Buffs of India",
+        "date": "2024-02-28", 
+        "venue": "Hitex Exhibition Center, Hyderabad",
+        "price": "900rs",
+        "categories": ["Entertainment", "Comics", "Pop Culture"],
+        "thumbnail_url": "https://example.com/images/thumb-comics.jpg", 
+        "medium_url": "https://example.com/images/med-comics.jpg"
+    },
+    {
+        "id": "6", 
+        "name": "India Smart Cities Summit",
+        "description": "Discuss urban development and future smart cities projects",
+        "host": "Ministry of Housing and Urban Affairs", 
+        "date": "2024-02-07",
+        "venue": "Pragati Maidan, New Delhi",
+        "price": 0,
+        "categories": ["Technology", "Smart Cities", "Infrastructure"],
+        "thumbnail_url": "https://example.com/images/thumb-smartcity.jpg",
+        "medium_url": "https://example.com/images/med-smartcity.jpg"  
+    },
+    {
+        "id": "7",
+        "name": "Young Leaders Conference", 
+        "description": "Bringing together next-gen business leaders and entrepreneurs ",
+        "host": "Junior Chamber of Commerce",
+        "date": "2024-02-21",
+        "venue": "The Leela Palace Bengaluru", 
+        "price": "5000rs",
+        "categories": ["Business", "Leadership", "Entrepreneurship"],
+        "thumbnail_url": "https://example.com/images/thumb-leaders.jpg",
+        "medium_url": "https://example.com/images/med-leaders.jpg"
+    },
+    {
+        "id": "8",
+        "name": "TechCon Summit",
+        "description": "A gathering of tech enthusiasts and professionals discussing the latest trends in technology.",
+        "host": "Tech Hub India",
+        "date": "2024-03-10",
+        "venue": "Bengaluru International Exhibition Centre",
+        "price": "1500rs",
+        "categories": ["Technology", "Innovation"],
+        "thumbnail_url": "https://example.com/images/thumb-techcon.jpg",
+        "medium_url": "https://example.com/images/med-techcon.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Culinary Expo",
+        "description": "A showcase of culinary arts, featuring chefs from around the world presenting their signature dishes.",
+        "host": "Culinary Arts Association",
+        "date": "2024-03-15",
+        "venue": "Mumbai Convention Centre",
+        "price": "800rs",
+        "categories": ["Food", "Cuisine"],
+        "thumbnail_url": "https://example.com/images/thumb-culinary.jpg",
+        "medium_url": "https://example.com/images/med-culinary.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Artisan Craft Fair",
+        "description": "An exhibition of handmade crafts and artworks by local artisans.",
+        "host": "Artisan Guild of India",
+        "date": "2024-03-20",
+        "venue": "Chennai Trade Centre",
+        "price": "Free Entry",
+        "categories": ["Art", "Crafts"],
+        "thumbnail_url": "https://example.com/images/thumb-artisan.jpg",
+        "medium_url": "https://example.com/images/med-artisan.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Health and Wellness Expo",
+"description": "Explore the latest health and wellness products, services, and trends.",
+"host": "Wellness Foundation India",
+"date": "2024-03-25",
+"venue": "Delhi Health & Fitness Centre",
+"price": "250rs",
+"categories": ["Health", "Wellness"],
+"thumbnail_url": "https://example.com/images/thumb-wellness.jpg",
+"medium_url": "https://example.com/images/med-wellness.jpg"
+},
+{
+"id": "12",
+"name": "International Film Festival",
+"description": "Screening of critically acclaimed international films and documentaries.",
+"host": "Film Society of India",
+"date": "2024-04-01",
+"venue": "National Centre for the Performing Arts, Mumbai",
+"price": "500rs",
+"categories": ["Film", "Cinema"],
+"thumbnail_url": "https://example.com/images/thumb-film.jpg",
+"medium_url": "https://example.com/images/med-film.jpg"
+}
+
+    
+]
